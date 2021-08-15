@@ -1,0 +1,66 @@
+.topbar {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 9px;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid;
+  }
+  .links {
+    display: flex;
+    list-style-type: none;
+  }
+  .link{
+    margin: 1px 15px;
+    padding: 1px 10px;
+  }
+  a.linkToPage{
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .logoandseeker{
+    display: flex;
+    justify-content: space-around;
+    background-color: #020215;
+    margin-top: 10px;
+  }
+  .logoandseeker p{
+    color:#ffffff;
+    font-size: 2em;
+    margin: auto;
+  }
+  .logoandseeker img{
+    margin: 10px;
+  }
+  .logo {
+    width: 150px;
+    padding-top: 10px;
+
+  }
+  .name{
+    size: 12px;
+    font-family:monospace;
+    margin-left: 5px;
+    color: #ffffff;
+  }
+
+
+.linkToCategories{
+  margin: 1px;
+  padding: 8px 29px;
+  color:white;
+  text-decoration: none;
+}
+
+.linkToCategories:hover{
+  color: #bfff00;
+}
+
+.activeLinkToPage{
+  background-color: #bfff0036;
+}
+
+ul.links{
+  margin: 0px;
+  padding: 0px;
+}

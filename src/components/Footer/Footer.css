@@ -1,0 +1,24 @@
+
+.main-footer {
+    color: white;
+    background-color: #020215;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  .row{
+   display: grid;
+   grid-template-columns: 40% 20% 40%;
+} 
+.col{
+   padding: 20px 20px;
+}
+
+  .icon{
+   background-color: #ffffff;
+   border-radius: 50%;
+   width: 40px;
+   padding: 1px 1px;
+   margin: 10px;
+  }

@@ -1,0 +1,15 @@
+.nba{
+    width: 100%;
+}
+
+.bibliotecaQueEsContainer{
+    background-color: #413d3d;
+    height: 35em;
+}
+.bibliotecaQueEs{
+    background-color: #413d3d;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 7em;
+}
